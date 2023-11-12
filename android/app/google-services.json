@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "222546282714",
+    "firebase_url": "https://chat-app-cc6a3-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-cc6a3",
+    "storage_bucket": "chat-app-cc6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222546282714:android:e3ad7ae19a09db62e4bde3",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGM4It2v26w3ZcNDSXVQpDDG8yyhpg9qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
